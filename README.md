@@ -63,7 +63,7 @@ We apply a machine learning based time series forecasting approach, evaluate res
 
 ### 1. Clone Repository
 ```bash
-git clone [https://github.com/YR-1/Store-Item-Demand-Forecasting.git](https://github.com/YR-1/Store-Item-Demand-Forecasting.git)
+git clone https://github.com/YR-1/Store-Item-Demand-Forecasting.git
 cd Store-Item-Demand-Forecasting
 ```
 ### 2. Add data files
